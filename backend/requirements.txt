@@ -1,0 +1,13 @@
+Flask==2.3.3
+flask-cors==4.0.0
+moviepy==1.0.3
+replicate==0.15.4
+python-dotenv==1.0.0
+requests==2.31.0
+Pillow==10.0.1
+gunicorn==21.2.0
+imageio==2.31.1
+imageio-ffmpeg==0.4.8
+numpy==1.24.3
+scipy==1.11.2
+werkzeug==2.3.7 
